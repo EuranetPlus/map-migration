@@ -1,13 +1,13 @@
 {
-  "heading": "Les racines de la population de l'UE27 : combien d'entre nous sont nés hors de nos frontières ?",
-  "subheading": "Un aperçu de la part de la population des personnes nées en dehors des pays de l'UE27",
-  "legend1": "Pas de données disponibles",
+  "heading": "Les racines de la population de l’UE27 : combien d’entre nous sont nés en dehors de nos frontières ?",
+  "subheading": "Aperçu de la part de la population née en dehors des pays de l'UE27",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "de la population totale",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Les données sur l'immigration remontent à 2020. Fourni des données sur la population totale de 2023. Les valeurs ont été calculées sur la base de ces données.",
+  "textNote": "Les données sur l'immigration remontent à 2020. Les données sur la population totale sont fournies à partir de 2023. Les valeurs ont été calculées sur la base de ces données.",
   "textDataAccess": "Accéder aux données sur l'immigration",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=fr&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

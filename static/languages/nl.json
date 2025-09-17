@@ -1,12 +1,12 @@
 {
-  "heading": "De wortels van de bevolking van de EU27 – hoeveel van ons zijn buiten onze grenzen geboren?",
-  "subheading": "Een overzicht van het bevolkingsaandeel van mensen die buiten de EU27-landen zijn geboren",
+  "heading": "De wortels van de bevolking van de EU27: hoeveel van ons zijn buiten onze grenzen geboren?",
+  "subheading": "Overzicht van het aandeel van de bevolking dat buiten de EU27-landen is geboren",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de totale bevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Immigratiegegevens dateren uit 2020. Leverden gegevens over de totale bevolking vanaf 2023. Op basis van die gegevens werden waarden berekend.",
+  "textNote": "Immigratiegegevens dateren van 2020. Gegevens over de totale bevolking zijn verstrekt vanaf 2023. De waarden zijn berekend op basis van die gegevens.",
   "textDataAccess": "Toegang tot de immigratiegegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Klik voor meer informatie"

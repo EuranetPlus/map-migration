@@ -1,13 +1,13 @@
 {
-  "heading": "Korene obyvateľstva EÚ27 – koľko z nás sa narodilo za našimi hranicami?",
-  "subheading": "Prehľad populačného podielu ľudí, ktorí sa narodili mimo krajín EÚ27",
+  "heading": "Korene obyvateľstva EÚ27 – koľkí z nás sa narodili mimo našich hraníc?",
+  "subheading": "Prehľad podielu obyvateľstva narodeného mimo krajín EÚ27",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "celkovej populácie",
+  "tooltip1": "z celkovej populácie",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje o prisťahovalectve pochádzajú z roku 2020. Poskytli údaje o celkovom počte obyvateľov z roku 2023. Hodnoty boli vypočítané na základe týchto údajov.",
-  "textDataAccess": "Získajte prístup k údajom o prisťahovalectve",
+  "textNote": "Údaje o imigrácii pochádzajú z roku 2020. Poskytnuté údaje o celkovej populácii sú z roku 2023. Hodnoty boli vypočítané na základe týchto údajov.",
+  "textDataAccess": "Prístup k imigračným údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Kliknite pre viac informácií"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Las raíces de la población de la UE27: ¿cuántos de nosotros nacimos más allá de nuestras fronteras?",
-  "subheading": "Una visión general de la proporción de personas que nacieron fuera de los países de la UE27",
-  "legend1": "Datos no disponibles",
+  "heading": "Las raíces de la población de la UE27: ¿cuántos de nosotros nacimos fuera de nuestras fronteras?",
+  "subheading": "Panorama general de la proporción de población nacida fuera de los países de la UE27",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "de la población total",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos de inmigración se remontan a 2020. Proporcionó datos de población total a partir de 2023. Los valores se calcularon en base a esos datos.",
-  "textDataAccess": "Acceder a los datos de inmigración",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
+  "textNote": "Los datos de inmigración se remontan a 2020. Se proporcionaron datos de población total de 2023. Los valores se calcularon en base a esos datos.",
+  "textDataAccess": "Acceda a los datos de inmigración",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=es&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Haga clic para más información"
 }

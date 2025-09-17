@@ -1,13 +1,13 @@
 {
   "heading": "Fréamhacha dhaonra an AE27 - cé mhéad againn a rugadh lasmuigh dár dteorainneacha?",
-  "subheading": "Forbhreathnú ar sciar daonra na ndaoine a rugadh lasmuigh de 27 tír an AE",
+  "subheading": "Forbhreathnú ar an sciar den daonra a rugadh lasmuigh de thíortha an AE27",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "den daonra iomlán",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Téann sonraí inimirce siar go dtí 2020. Soláthraíodh sonraí daonra iomlán ó 2023. Ríomhadh luachanna bunaithe ar na sonraí sin.",
-  "textDataAccess": "Faigh rochtain ar shonraí inimirce",
+  "textNote": "Téann sonraí inimirce siar go dtí 2020. Soláthraíodh sonraí daonra iomlána ó 2023. Ríomhadh na luachanna bunaithe ar na sonraí sin.",
+  "textDataAccess": "Rochtain ar na sonraí inimirce",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

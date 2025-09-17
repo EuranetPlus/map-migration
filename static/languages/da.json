@@ -1,13 +1,13 @@
 {
-  "heading": "Rødderne til EU27's befolkning - hvor mange af os er født uden for vores grænser?",
-  "subheading": "En oversigt over befolkningsandelen af personer, der er født uden for EU27-landene",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Rødderne i EU27-befolkningen - hvor mange af os er født uden for vores grænser?",
+  "subheading": "Oversigt over andelen af befolkningen født uden for EU27-landene",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af den samlede befolkning",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Immigrationsdata går tilbage til 2020. Forudsat samlede befolkningsdata fra 2023. Værdier blev beregnet ud fra disse data.",
-  "textDataAccess": "Få adgang til immigrationsdata",
+  "textNoteDescription": "Note",
+  "textNote": "Indvandringsdata går tilbage til 2020. Indeholdt data om den samlede befolkning fra 2023. Værdierne blev beregnet ud fra disse data.",
+  "textDataAccess": "Adgang til immigrationsdataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

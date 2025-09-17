@@ -1,13 +1,13 @@
 {
-  "heading": "EU27:n väestön juuret – kuinka moni meistä on syntynyt rajojemme ulkopuolella?",
-  "subheading": "Yleiskatsaus EU27-maiden ulkopuolella syntyneiden väestöosuuteen",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "EU27-väestön juuret – kuinka moni meistä on syntynyt rajojemme ulkopuolella?",
+  "subheading": "Yleiskatsaus EU27-maiden ulkopuolella syntyneen väestön osuuteen",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "koko väestöstä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Maahanmuuttotiedot ovat vuodelta 2020. Toimitettu kokonaisväestötiedot vuodelta 2023. Arvot laskettiin näiden tietojen perusteella.",
+  "textNote": "Maahanmuuttotiedot ovat vuodelta 2020. Kokonaisväestötiedot vuodelta 2023. Arvot laskettiin näiden tietojen perusteella.",
   "textDataAccess": "Pääsy maahanmuuttotietoihin",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

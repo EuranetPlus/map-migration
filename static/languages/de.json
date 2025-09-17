@@ -1,13 +1,13 @@
 {
   "heading": "Die Wurzeln der Bevölkerung der EU27 – wie viele von uns wurden außerhalb unserer Grenzen geboren?",
-  "subheading": "Eine Übersicht über den Bevölkerungsanteil der Menschen, die außerhalb der EU27-Länder geboren wurden",
+  "subheading": "Überblick über den Anteil der außerhalb der EU27-Länder geborenen Bevölkerung",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Gesamtbevölkerung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Einwanderungsdaten stammen aus dem Jahr 2020. Es wurden Gesamtbevölkerungsdaten aus dem Jahr 2023 bereitgestellt. Die Werte wurden auf Grundlage dieser Daten berechnet.",
+  "textNote": "Die Einwanderungsdaten stammen aus dem Jahr 2020. Die Gesamtbevölkerungsdaten wurden ab 2023 bereitgestellt. Die Werte wurden auf Grundlage dieser Daten berechnet.",
   "textDataAccess": "Greifen Sie auf die Einwanderungsdaten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

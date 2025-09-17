@@ -1,13 +1,13 @@
 {
-  "heading": "Rădăcinile populației UE27 - câți dintre noi ne-am născut dincolo de granițele noastre?",
-  "subheading": "O privire de ansamblu asupra ponderii populației de persoane care s-au născut în afara țărilor UE27",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Rădăcinile populației UE-27 - câți dintre noi ne-am născut în afara granițelor noastre?",
+  "subheading": "Prezentare generală a ponderii populației născute în afara țărilor UE-27",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "din populația totală",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Datele privind imigrația datează din 2020. Au furnizat date privind populația totală din 2023. Valorile au fost calculate pe baza acestor date.",
-  "textDataAccess": "Accesați datele de imigrare",
+  "textNoteDescription": "Nota",
+  "textNote": "Datele privind imigrația datează din 2020. Au fost furnizate date privind populația totală din 2023. Valorile au fost calculate pe baza acestor date.",
+  "textDataAccess": "Accesați datele privind imigrația",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Kořeny populace EU27 – kolik z nás se narodilo za našimi hranicemi?",
-  "subheading": "Přehled populačního podílu lidí, kteří se narodili mimo země EU27",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "celkové populace",
+  "heading": "Kořeny obyvatelstva EU27 – kolik z nás se narodilo mimo naše hranice?",
+  "subheading": "Přehled podílu populace narozené mimo země EU27",
+  "legend1": "Žádné údaje k dispozici",
+  "tooltip1": "z celkové populace",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje o imigraci pocházejí z roku 2020. Poskytují údaje o celkové populaci z roku 2023. Hodnoty byly vypočteny na základě těchto údajů.",
-  "textDataAccess": "Přístup k údajům o přistěhovalectví",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=cs&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
+  "textNote": "Údaje o imigraci pocházejí z roku 2020. Poskytnuté údaje o celkové populaci jsou z roku 2023. Hodnoty byly vypočítány na základě těchto údajů.",
+  "textDataAccess": "Přístup k imigračním údajům",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Klikněte pro více informací"
 }

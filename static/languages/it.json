@@ -1,13 +1,13 @@
 {
-  "heading": "Le radici della popolazione dell'UE a 27: quanti di noi sono nati oltre i nostri confini?",
-  "subheading": "Una panoramica della quota di popolazione di persone nate al di fuori dei paesi dell'UE27",
+  "heading": "Le radici della popolazione dell'UE27: quanti di noi sono nati fuori dai nostri confini?",
+  "subheading": "Panoramica della quota di popolazione nata al di fuori dei paesi dell'UE27",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "della popolazione totale",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "I dati sull'immigrazione risalgono al 2020. Sono stati forniti dati sulla popolazione totale dal 2023. I valori sono stati calcolati sulla base di tali dati.",
+  "textNote": "I dati sull'immigrazione risalgono al 2020. Sono stati forniti dati sulla popolazione totale a partire dal 2023. I valori sono stati calcolati sulla base di tali dati.",
   "textDataAccess": "Accedi ai dati sull'immigrazione",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Az EU27 lakosságának gyökerei – hányan születtünk határainkon túl?",
-  "subheading": "Az EU27-en kívül születettek népességarányának áttekintése",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "a teljes lakosságból",
+  "heading": "Az EU27 lakosságának gyökerei – hányan születtünk a határainkon kívül?",
+  "subheading": "Az EU27 országain kívül született népesség arányának áttekintése",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "a teljes népességből",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A bevándorlási adatok 2020-ig nyúlnak vissza. 2023-tól teljes népességi adatokat szolgáltatott. Az értékeket ezen adatok alapján számítottuk ki.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "A bevándorlási adatok 2020-ig visszamenőleg vannak megadva. A teljes népességre vonatkozó adatokat 2023-tól adtuk meg. Az értékeket ezen adatok alapján számítottuk ki.",
   "textDataAccess": "Hozzáférés a bevándorlási adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

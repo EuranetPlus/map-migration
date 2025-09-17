@@ -1,13 +1,13 @@
 {
   "heading": "ES27 iedzīvotāju saknes — cik daudzi no mums ir dzimuši ārpus mūsu robežām?",
-  "subheading": "Pārskats par to cilvēku īpatsvaru, kuri dzimuši ārpus ES27 valstīm",
-  "legend1": "Nav pieejami dati",
+  "subheading": "Pārskats par iedzīvotāju īpatsvaru, kas dzimuši ārpus ES 27 valstīm",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "no kopējā iedzīvotāju skaita",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Imigrācijas dati ir datēti ar 2020. gadu. Sniegti dati par kopējo iedzīvotāju skaitu no 2023. gada. Vērtības tika aprēķinātas, pamatojoties uz šiem datiem.",
+  "textNote": "Imigrācijas dati ir pieejami kopš 2020. gada. Sniegtie kopējie iedzīvotāju skaita dati ir sniegti no 2023. gada. Vērtības tika aprēķinātas, pamatojoties uz šiem datiem.",
   "textDataAccess": "Piekļūstiet imigrācijas datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

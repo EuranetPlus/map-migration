@@ -1,13 +1,13 @@
 {
   "heading": "Korijeni stanovništva EU27 - koliko nas je rođeno izvan naših granica?",
-  "subheading": "Pregled udjela u stanovništvu ljudi koji su rođeni izvan zemalja EU27",
+  "subheading": "Pregled udjela stanovništva rođenog izvan zemalja EU27",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "ukupnog stanovništva",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci o imigraciji datiraju iz 2020. Podaci o ukupnom stanovništvu iz 2023. Vrijednosti su izračunate na temelju tih podataka.",
-  "textDataAccess": "Pristup imigracijskim podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=hr&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
+  "textNote": "Podaci o imigraciji datiraju iz 2020. godine. Navedeni su podaci o ukupnom broju stanovnika iz 2023. godine. Vrijednosti su izračunate na temelju tih podataka.",
+  "textDataAccess": "Pristup podacima o imigraciji",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Kliknite za više informacija"
 }

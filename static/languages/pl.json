@@ -1,12 +1,12 @@
 {
-  "heading": "Korzenie populacji UE27 – ilu z nas urodziło się poza naszymi granicami?",
-  "subheading": "Przegląd odsetka ludności urodzonej poza krajami UE27",
+  "heading": "Korzenie populacji UE-27 – ilu z nas urodziło się poza naszymi granicami?",
+  "subheading": "Przegląd udziału ludności urodzonej poza krajami UE27",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "całkowitej populacji",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane dotyczące imigracji pochodzą z 2020 r. Podane są dane dotyczące całkowitej populacji z 2023 r. Na podstawie tych danych obliczono wartości.",
+  "textNote": "Dane dotyczące imigracji pochodzą z 2020 r. Podano dane dotyczące całkowitej liczby ludności z 2023 r. Wartości obliczono na podstawie tych danych.",
   "textDataAccess": "Uzyskaj dostęp do danych imigracyjnych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

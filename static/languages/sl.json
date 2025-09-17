@@ -1,13 +1,13 @@
 {
-  "heading": "Korenine prebivalstva EU27 – koliko nas je rojenih zunaj naših meja?",
-  "subheading": "Pregled populacijskega deleža oseb, rojenih izven držav EU27",
-  "legend1": "Ni podatkov",
+  "heading": "Korenine prebivalstva EU27 – koliko nas se je rodilo zunaj naših meja?",
+  "subheading": "Pregled deleža prebivalstva, rojenega zunaj držav EU27",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "celotnega prebivalstva",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatki o priseljevanju segajo v leto 2020. Zagotovljeni podatki o skupnem prebivalstvu od leta 2023. Vrednosti so bile izračunane na podlagi teh podatkov.",
-  "textDataAccess": "Dostop do imigracijskih podatkov",
+  "textNote": "Podatki o priseljevanju segajo v leto 2020. Podatki o celotnem prebivalstvu so bili na voljo od leta 2023. Vrednosti so bile izračunane na podlagi teh podatkov.",
+  "textDataAccess": "Dostop do podatkov o priseljevanju",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Kliknite za več informacij"
 }

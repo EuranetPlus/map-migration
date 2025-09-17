@@ -1,13 +1,13 @@
 {
-  "heading": "Rötterna till EU27:s befolkning – hur många av oss föddes utanför våra gränser?",
-  "subheading": "En översikt över befolkningens andel av personer som är födda utanför EU27-länderna",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "EU27-befolkningens rötter – hur många av oss är födda utanför våra gränser?",
+  "subheading": "Översikt över andelen av befolkningen född utanför EU27-länderna",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av den totala befolkningen",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Invandringsdata går tillbaka till 2020. Tillhandahöll totala befolkningsdata från 2023. Värdena beräknades utifrån dessa uppgifter.",
-  "textDataAccess": "Få tillgång till immigrationsdata",
+  "textNote": "Immigrationsdata går tillbaka till 2020. Tillhandahåller total befolkningsdata från 2023. Värdena beräknades baserat på dessa uppgifter.",
+  "textDataAccess": "Få åtkomst till immigrationsdata",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

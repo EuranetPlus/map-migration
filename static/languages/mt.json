@@ -1,13 +1,13 @@
 {
-  "heading": "L-għeruq tal-popolazzjoni tal-UE27 - kemm minna twieldu lil hinn mill-fruntieri tagħna?",
-  "subheading": "Ħarsa ġenerali lejn is-sehem tal-popolazzjoni ta' nies li twieldu barra mill-pajjiżi tal-UE27",
+  "heading": "L-għeruq tal-popolazzjoni tal-UE27 - kemm minna twieldu barra mill-fruntieri tagħna?",
+  "subheading": "Ħarsa ġenerali lejn is-sehem tal-popolazzjoni mwielda barra l-pajjiżi tal-UE27",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-popolazzjoni totali",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta tal-immigrazzjoni tmur lura għall-2020. Ipprovda dejta tal-popolazzjoni totali mill-2023. Il-valuri ġew ikkalkulati abbażi ta’ dik id-dejta.",
-  "textDataAccess": "Aċċessa għad-dejta dwar l-immigrazzjoni",
+  "textNote": "Id-dejta dwar l-immigrazzjoni tmur lura għall-2020. Ipprovdiet dejta dwar il-popolazzjoni totali mill-2023. Il-valuri ġew ikkalkulati abbażi ta’ dik id-dejta.",
+  "textDataAccess": "Aċċessa d-dejta tal-immigrazzjoni",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

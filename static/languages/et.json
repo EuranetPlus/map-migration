@@ -1,12 +1,12 @@
 {
-  "heading": "EL27 rahvastiku juured – kui paljud meist on sündinud väljaspool oma piire?",
-  "subheading": "Ülevaade väljaspool EL27 riike sündinud inimeste osakaalust",
-  "legend1": "Andmed puuduvad",
+  "heading": "EL27 elanikkonna juured – kui paljud meist on sündinud väljaspool meie piire?",
+  "subheading": "Ülevaade väljaspool EL 27 riike sündinud elanikkonna osakaalust",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "kogu elanikkonnast",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Immigratsiooniandmed pärinevad aastast 2020. Esitatud kogurahvastiku andmed aastast 2023. Väärtused arvutati nende andmete põhjal.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Immigratsiooniandmed pärinevad aastast 2020. Esitatud on kogurahvastiku andmed alates 2023. aastast. Väärtused arvutati nende andmete põhjal.",
   "textDataAccess": "Juurdepääs immigratsiooniandmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/MIGR_POP3CTB__custom_5958588/bookmark/table?lang=en&bookmarkId=3876784e-fd97-4fe3-a740-2bd2154233cd",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
